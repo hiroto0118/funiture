@@ -1,0 +1,1 @@
+"use strict";{let e=document.getElementById("open"),s=document.querySelector(".overlay"),t=document.getElementById("close"),d=document.getElementById("nav");e.addEventListener("click",()=>{s.classList.add("show"),e.classList.add("hide"),d.classList.add("in")}),t.addEventListener("click",()=>{s.classList.remove("show"),e.classList.remove("hide"),d.classList.remove("in")})}
